@@ -1,0 +1,19 @@
+{
+	"user": "fl0w3rs",
+	"repo": "sampvoice",
+	"entry": "test.pwn",
+	"output": "test.amx",
+    "resources": [
+        {
+            "name": "sampvoice.so",
+            "platform": "linux"
+        },
+        {
+            "name": "sampvoice.dll",
+            "platform": "windows"
+        }
+    ],
+	"dependencies": [
+		"sampctl/samp-stdlib"
+	]
+}
