@@ -1,6 +1,4 @@
-# sampvoice-sampctl
-
-[![sampctl](https://img.shields.io/badge/sampctl-sampvoice--sampctl-2f2f2f.svg?style=for-the-badge)](https://github.com/fl0w3rs/sampvoice-sampctl)
+# sampvoice
 
 <!--
 Short description of your library, why it's useful, some examples, pictures or
