@@ -1,4 +1,7 @@
 # sampvoice
+
+[![sampctl](https://img.shields.io/badge/sampctl-sampvoice-2f2f2f.svg?style=for-the-badge)](https://github.com/fl0w3rs/sampvoice)
+
 [Original repository](https://github.com/CyberMor/sampvoice)
 
 ## Installation
